@@ -1,4 +1,4 @@
-# E-commerce Sales Analysis
+# E-commerce Sales  and shipment analysis 
 
 This project analyzes e-commerce sales data to uncover trends, regional insights, and key drivers of revenue. The dataset includes sales records for various products, regions, customer segments, and shipping modes. This analysis provides actionable insights to enhance sales strategies and optimize business performance.
 
