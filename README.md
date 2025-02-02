@@ -10,7 +10,7 @@ This project analyzes e-commerce sales data to uncover trends, regional insights
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
--
+
 
 ---
 
