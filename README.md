@@ -23,19 +23,19 @@ E-commerce businesses often face challenges in identifying trends and factors in
 
 **Data Analysis Process**
 
-1. Data Cleaning and Organization:
+**1. Data Cleaning and Organization:**
    Ensured data consistency and handled missing values.
 
-2. Descriptive Analytics:
+**2. Descriptive Analytics:**
    Aggregated sales, profits, and customer data.
 
-3. Pivot Tables and Visualizations:
+**3. Pivot Tables and Visualizations:**
    Created pivot tables and charts to summarize and visualize key metrics.
 
-4. Key Metric Derivation:
+**4. Key Metric Derivation:**
    Computed metrics such as average sales per order and regional contributions.
 
-5. Insights Extraction:
+**5. Insights Extraction:**
    Identified trends and actionable insights for business strategy.
 
 **Insights and Findings**
@@ -48,11 +48,10 @@ E-commerce businesses often face challenges in identifying trends and factors in
 
 **Technologies Used**
 Microsoft Excel: For data cleaning, pivot tables, and visualizations.
-Python (optional): For advanced data manipulation and analysis (if used).
 
 **How to Use**
 -Clone the repository:
--bash
+-Bash
 -Copy
 -Edit
 -git clone https://github.com/username/ecommerce-sales-analysis.git  
